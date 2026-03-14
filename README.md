@@ -53,7 +53,7 @@ These features help analyze how smartphone habits affect users.
 * Decision Tree
 
 Pipelines and column transformers were used to automate preprocessing and model training.
-
+The Decision Tree model achieved 99% accuracy, while Logistic Regression achieved 88% accuracy on the test dataset. The Decision Tree performed better in capturing nonlinear relationships between smartphone usage features and addiction levels.
 ---
 
 ## Key Concepts Implemented
